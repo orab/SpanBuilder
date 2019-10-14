@@ -1,3 +1,3 @@
 # SpanBuilder
 
-An utils class for manipulating Android Spans.
+A utils class for manipulating Android Spans.
